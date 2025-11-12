@@ -13,7 +13,7 @@ I discussed the opportunity with the Director of Operations and he agreed to all
 \
 When it was time to introduce the new labor log, I held two training sessions in the conference room with warehouse management.  During the first several weeks, I was available to the management team if any problems or questions arose.\
 \
-I spoke with our accountant, and he said that the new spreadsheet system reduced his profit and loss statement preparation time by 40%.\
+I spoke with our accountant, and he said that the new spreadsheet system reduced his profit and loss statement preparation time by 40%.
 
 
 ![NetworkGlobalHoursTrackingProject dev window](https://github.com/user-attachments/assets/7275ffe8-3157-4a36-95c6-d2629adc2300)
