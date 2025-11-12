@@ -34,3 +34,6 @@ Above is the data entry form as it appeared during data entry by the warehouse m
 ![NetworkGlobalHoursTrackingProject Pivot Table](https://github.com/user-attachments/assets/8f593e4d-2044-4693-9dd8-15ad2ed6c827)
 This above image shows a neatly formatted Pivot Table with the regular and overtime labor hours worked for each warehousing client for a given month.  Prior to my spreadsheet, these numbers needed to be added up by hand by the accountant from across several employees from 7 to 8 separate labor logs.  With this spreadsheet, the accountant no longer needed to manually add up total labor hours used on each client.
 
+![StoutStuffWorkArea](https://github.com/user-attachments/assets/028d03b4-c058-4aad-8075-cf2720fb02bd)
+
+
