@@ -13,11 +13,15 @@ I discussed the opportunity with the Director of Operations and he agreed to all
 \
 When it was time to introduce the new labor log, I held two training sessions in the conference room with warehouse management.  During the first several weeks, I was available to the management team if any problems or questions arose.\
 \
-I spoke with our accountant, and he said that the new spreadsheet system reduced his profit and loss statement preparation time by 40%.
+I spoke with our accountant, and he said that the new spreadsheet system reduced his profit and loss statement preparation time by 40%.\
+\
 
 ![NetworkGlobalHoursTrackingProject dev window](https://github.com/user-attachments/assets/7275ffe8-3157-4a36-95c6-d2629adc2300)
-
+Above is the Microsoft Excel Developer environment where I constructed the user interface which controlled user input and recorded it directly to Excel sheet's data table.\
+\
 ![NetworkGlobalHoursTrackingProject](https://github.com/user-attachments/assets/964a8091-fe1e-4fa6-b6b7-ffb8350cb9cb)
-
+Here is the data entry form as it appeared during data entry by the warehouse management team.\
+\
 ![NetworkGlobalHoursTrackingProject Pivot Table](https://github.com/user-attachments/assets/8f593e4d-2044-4693-9dd8-15ad2ed6c827)
-This image shows the regular and overtime labor hours worked for each warehousing client for a given month.  Prior to my spreadsheet, these numbers needed to be added up by hand by the accountant from across several employees from 7 to 8 separate labor logs.
+This image shows a neatly formatted Pivot Table with the regular and overtime labor hours worked for each warehousing client for a given month.  Prior to my spreadsheet, these numbers needed to be added up by hand by the accountant from across several employees from 7 to 8 separate labor logs.  With this spreadsheet, the accountant no longer needed to manually add up total labor hours used on each client.\
+\
