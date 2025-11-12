@@ -1,5 +1,7 @@
 This page describes two Microsoft Excel VBA projects that I did in my 2012 FedEx Freight internship and my 2014 production analyst role at Network Global Logistics.  They demonstrate skills from the systems development life cycle (SDLC) in requirements gathering, communicating often with the stakeholderuser, user interface design, and desigining and implementing an technology based solution.
 
+VBA UserForms in Excel provide a way to create custom dialog boxes and interfaces for users to interact with your spreadsheets. This allows for more controlled data entry, enhanced user experience, and the creation of sophisticated applications within Excel.
+
 # FedEx Freight Business Intelligence Reporting Spreadsheet
 In 2012, I did a summer internship at FedEx Freight's service center in San Bernardino, CA.  I assisted freight operations supervisors during their shifts and learned the nuts and bolts of the freight transportation aspect of supply chain management.\
 \
