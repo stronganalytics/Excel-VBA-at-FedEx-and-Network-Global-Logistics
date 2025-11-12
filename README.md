@@ -6,8 +6,10 @@
 
 # Network Global Logistics Labor Hours Log for Warehouse Management Team
 In 2014, I joined Network Global Logistics, a third party logistics company.  At the Rialto, CA warehouse, I reported to the Director of Operations, who had profit and loss responsibility for that facility.  We had about 20-25 clients for our warehousing services.  Labor costs were carefully allocated to each client to measure each client's profitability.  This was done by having each warehouse supervisor record how many hours were spent on work for each client by each of his or her employees.\
+\
 A problem that I noticed was that each supervisor kept his or her own spreadsheet log.  For our accountant, it was tedious to, each month, take 7 or 8 separate labor logs and manually add up the total number of labor hours attributed to each of our clients.  A simple Pivot Table could capture that information automatically, but it would require the supervisors to record their hours into one spreadsheet with a centralized database table.\
-I discussed the opportunity with the Director of Operations and he agreed to allow me to produce a new labor activity log.  I made design sketches, produced prototypes, and met with my boss periodically to make adjustments to the design.  I developed a UserForm for data input to facilitate accuracy and usability for the management team.\
+\
+I discussed the opportunity with the Director of Operations and he agreed to allow me to produce a new labor activity log.  I made design sketches, produced prototypes, and met with my boss periodically to make adjustments to the design.  I developed a UserForm for data input to facilitate accuracy and usability for the management team.\\
 When it was time to introduce the new labor log, I held two training sessions in the conference room with warehouse management.  During the first several weeks, I was available to the management team if any problems or questions arose.\
 I spoke with our accountant, and he said that the new spreadsheet system reduced his profit and loss statement preparation time by 40%.
 
