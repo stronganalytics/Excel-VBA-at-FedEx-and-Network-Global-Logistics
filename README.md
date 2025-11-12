@@ -27,7 +27,7 @@ When it was time to introduce the new labor log, I held two training sessions in
 I spoke with our accountant, and he said that the new spreadsheet system reduced his profit and loss statement preparation time by 40%.
 
 
-![NetworkGlobalHoursTrackingProject dev window](https://github.com/user-attachments/assets/7275ffe8-3157-4a36-95c6-d2629adc2300)
+![NetworkGlobalHoursTrackingProject dev window](https://github.com/user-attachments/assets/deb096b5-bf60-48e7-be02-cddf86d1a0b5)
 Above is the Microsoft Excel Developer environment where I constructed the user interface which controlled user input and recorded it directly to Excel sheet's data table.
 
 ![NetworkGlobalHoursTrackingProject](https://github.com/user-attachments/assets/964a8091-fe1e-4fa6-b6b7-ffb8350cb9cb)
