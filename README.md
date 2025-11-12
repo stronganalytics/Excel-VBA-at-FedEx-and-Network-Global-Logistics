@@ -31,7 +31,7 @@ I spoke with our accountant, and he said that the new spreadsheet system reduced
 Above is the Microsoft Excel Developer environment where I constructed the user interface which controlled user input and recorded it directly to Excel sheet's data table.
 
 ![NetworkGlobalHoursTrackingProject](https://github.com/user-attachments/assets/964a8091-fe1e-4fa6-b6b7-ffb8350cb9cb)
-Above is the data entry form as it appeared during data entry by the warehouse management team.
+Above is the data entry form as it appeared during data entry by the warehouse management team.  Names and numbers have been changed for privacy.
 
 ![NetworkGlobalHoursTrackingProject Pivot Table](https://github.com/user-attachments/assets/8f593e4d-2044-4693-9dd8-15ad2ed6c827)
 This above image shows a neatly formatted Pivot Table with the regular and overtime labor hours worked for each warehousing client for a given month.  Prior to my spreadsheet, these numbers needed to be added up by hand by the accountant from across several employees from 7 to 8 separate labor logs.  With this spreadsheet, the accountant no longer needed to manually add up total labor hours used on each client.
