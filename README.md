@@ -1,7 +1,9 @@
 # FedEx Freight Business Intelligence Reporting Spreadsheet
 In 2012, I did a summer internship at FedEx Freight's service center in San Bernardino, CA.  I assisted freight operations supervisors during their shifts and learned the nuts and bolts of the freight transportation aspect of supply chain management.\
 \
-My boss was the assistant service center manager.  He said that they had many operations metrics for their forklift operators, their local pickup and delivery drivers, their linehaul drivers for trips across state lines, and their clerical staff.  He wanted a spreadsheet where an executive with limited Excel knowledge could simply click a few buttons and display performance charts.  He gave me the assignment to build an automated graph generation tool with buttons that would report a desired operations metric for a desired time period.
+My boss was the assistant service center manager.  He said that they had many operations metrics for their forklift operators, their local pickup and delivery drivers, their linehaul drivers for trips across state lines, and their clerical staff.  He wanted a spreadsheet where an executive with limited Excel knowledge could simply click a few buttons and display performance charts.  He gave me the assignment to build an automated graph generation tool with buttons that would report a desired operations metric for a desired time period.\
+\
+It was an iterative process and I sketched some designs on paper, built some prototypes, and met with my boss periodically to show him my work and to get his feedback.  In the end, I built him a metrics reporting spreadsheet as displayed below.  The actual metrics from FedEx Freight's productivity data were stored in an "ACTUAL Performance History" tab.  My boss, or anyone that he emailed the spreadsheet to, could then click "Get Report" and follow a few prompts to generate a bar graph of choice.
 
 ![FedEx Freight internship project screenshot for LinkedIn smaller](https://github.com/user-attachments/assets/3fb90f3e-4be9-41c5-a665-6b6af20ec49e)
 
