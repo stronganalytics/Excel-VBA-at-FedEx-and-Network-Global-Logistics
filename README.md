@@ -8,7 +8,7 @@ My boss was the assistant service center manager.  He said that they had many op
 I followed an iterative design process: I sketched some designs on paper, built some prototypes, and met with my boss periodically to show him my work and to get his feedback.  In the end, I built him a metrics reporting spreadsheet as displayed below.  The actual metrics from FedEx Freight's productivity data were stored in an "ACTUAL Performance History" tab.  My boss, or anyone that he emailed the spreadsheet to, could then click "Get Report" and follow a few prompts to generate a bar graph of choice.
 
 ![FedEx Freight internship project screenshot for LinkedIn smaller](https://github.com/user-attachments/assets/3fb90f3e-4be9-41c5-a665-6b6af20ec49e)
-Shown above is the user interface where an executive chooses an area of the business (Pickup and Delivery, Dock, Linehaul, Clerical) and then chooses a desired metric and a desired timeline (this week, this month, last quarter, this quarter, or this year.)
+Shown above is the user interface where an executive chooses an area of the business (Pickup and Delivery, Dock, Linehaul, Clerical) and then chooses a desired metric and a desired timeline (this week, this month, last quarter, this quarter, or this year.)  This graph shows "stops per hour" (SPH), the average number of stops made by local pickup and delivery drivers to customers each hour.
 
 ![FedEx Freight internship project screenshot for LinkedIn with dev window and code](https://github.com/user-attachments/assets/d4fd6051-1414-4b7a-8aaf-f6a1d523ace9)
 Above is the development environment where I created the user interface and edited the VBA code to enable automated PivotChart generation.
