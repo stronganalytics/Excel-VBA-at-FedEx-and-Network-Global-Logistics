@@ -9,8 +9,10 @@ In 2014, I joined Network Global Logistics, a third party logistics company.  At
 \
 A problem that I noticed was that each supervisor kept his or her own spreadsheet log.  For our accountant, it was tedious to, each month, take 7 or 8 separate labor logs and manually add up the total number of labor hours attributed to each of our clients.  A simple Pivot Table could capture that information automatically, but it would require the supervisors to record their hours into one spreadsheet with a centralized database table.\
 \
-I discussed the opportunity with the Director of Operations and he agreed to allow me to produce a new labor activity log.  I made design sketches, produced prototypes, and met with my boss periodically to make adjustments to the design.  I developed a UserForm for data input to facilitate accuracy and usability for the management team.\\
+I discussed the opportunity with the Director of Operations and he agreed to allow me to produce a new labor activity log.  I made design sketches, produced prototypes, and met with my boss periodically to make adjustments to the design.  I developed a UserForm for data input to facilitate accuracy and usability for the management team.\
+\
 When it was time to introduce the new labor log, I held two training sessions in the conference room with warehouse management.  During the first several weeks, I was available to the management team if any problems or questions arose.\
+\
 I spoke with our accountant, and he said that the new spreadsheet system reduced his profit and loss statement preparation time by 40%.
 
 ![NetworkGlobalHoursTrackingProject dev window](https://github.com/user-attachments/assets/7275ffe8-3157-4a36-95c6-d2629adc2300)
