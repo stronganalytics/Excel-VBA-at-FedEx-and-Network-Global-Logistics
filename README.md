@@ -1,8 +1,13 @@
 # FedEx Freight Business Intelligence Reporting Spreadsheet
+In 2012, I did a summer internship at FedEx Freight's service center in San Bernardino, CA.  I assisted freight operations supervisors during their shifts and learned the nuts and bolts of the freight transportation aspect of supply chain management.\
+\
+My boss was the assistant service center manager.  He said that they had many operations metrics for their forklift operators, their local pickup and delivery drivers, their linehaul drivers for trips across state lines, and their clerical staff.  He wanted a spreadsheet where an executive with limited Excel knowledge could simply click a few buttons and display performance charts.  He gave me the assignment to build an automated graph generation tool with buttons that would report a desired operations metric for a desired time period.
 
 ![FedEx Freight internship project screenshot for LinkedIn smaller](https://github.com/user-attachments/assets/3fb90f3e-4be9-41c5-a665-6b6af20ec49e)
 
 ![FedEx Freight internship project screenshot for LinkedIn with dev window and code](https://github.com/user-attachments/assets/d4fd6051-1414-4b7a-8aaf-f6a1d523ace9)
+
+![115_2122 - Copy ENHANCED](https://github.com/user-attachments/assets/04504e83-718d-42b8-81cb-3161e6a34098)
 
 # Network Global Logistics Labor Hours Log for Warehouse Management Team
 In 2014, I joined Network Global Logistics, a third party logistics company.  At the Rialto, CA warehouse, I reported to the Director of Operations, who had profit and loss responsibility for that facility.  We had about 20-25 clients for our warehousing services.  Labor costs were carefully allocated to each client to measure each client's profitability.  This was done by having each warehouse supervisor record how many hours were spent on work for each client by each of his or her employees.\
