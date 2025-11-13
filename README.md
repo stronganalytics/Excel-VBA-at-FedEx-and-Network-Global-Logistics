@@ -32,7 +32,7 @@ I spoke with our accountant, and he said that the new spreadsheet system reduced
 ![NetworkGlobalHoursTrackingProject dev window](https://github.com/user-attachments/assets/deb096b5-bf60-48e7-be02-cddf86d1a0b5)
 Above is the Microsoft Excel Developer environment where I constructed the user interface which controlled user input and recorded it directly to Excel sheet's data table.
 
-![NetworkGlobalHoursTrackingProject](https://github.com/user-attachments/assets/964a8091-fe1e-4fa6-b6b7-ffb8350cb9cb)
+![NetworkGlobalHoursTrackingProject](https://github.com/user-attachments/assets/5fba4bd1-f7a6-4b22-bcf3-e6561edfa647)
 Above is the data entry form as it appeared during data entry by the warehouse management team.  Names and numbers have been changed for privacy.
 
 ![NetworkGlobalHoursTrackingProject Pivot Table](https://github.com/user-attachments/assets/8f593e4d-2044-4693-9dd8-15ad2ed6c827)
