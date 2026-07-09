@@ -1,4 +1,4 @@
-This page describes two Microsoft Excel VBA projects that I did in my 2012 FedEx Freight internship and my 2014 production analyst role at Network Global Logistics.  They demonstrate skills from the systems development life cycle (SDLC) in requirements gathering, communicating often with the stakeholderuser, user interface design, and desigining and implementing an technology based solution.
+This page describes two Microsoft Excel VBA projects that I did in my 2012 FedEx Freight internship and my 2014 production analyst role at Network Global Logistics.  They demonstrate skills from the systems development life cycle (SDLC) in requirements gathering, communicating often with stakeholders, user interface design, and desigining and implementing an technology based solution.
 
 VBA UserForms in Excel provide a way to create custom dialog boxes and interfaces for users to interact with your spreadsheets. This allows for more controlled data entry, enhanced user experience, and the creation of sophisticated applications within Excel.
 
